@@ -1,12 +1,12 @@
 ---
-title: Simple Jekyll - A Jekyll site powered by Simple.css
-header: Simple Jekyll {}
+title: Terrance Brown - A Jekyll site powered by Simple.css
+header: Terrance Brown
 description: A Jekyll site powered by Simple.css
 permalink: /
 layout: default
 ---
 
-# Welcome to Simple Jekyll
+# Welcome to the site
 
 This is a simple webpage that has been handbuilt by [Terrance Brown](https://terrancebrown.me) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
 
