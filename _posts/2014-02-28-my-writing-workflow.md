@@ -1,7 +1,7 @@
 ---
 title: My Writing Workflow
 header: My Writing Workflow
-description: A treasure trove of writing apps..
+description: A treasure trove of writing apps.
 permalink: /my-writing-workflow/
 layout: post
 ---
