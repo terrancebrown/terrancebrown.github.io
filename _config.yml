@@ -1,6 +1,7 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-youtube
 
 # SEO Stuff
 author: Terrance Brown
