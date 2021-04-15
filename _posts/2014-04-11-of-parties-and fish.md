@@ -22,4 +22,4 @@ It's going to feel great to get back in the swing of teaching classes again afte
 
 What's with the mention of fish in the title you ask? Well our staff welcome party saw myself and my JTEs eating fish that was grilled alive over hot coals. Not the most pleasant of experiences!
 
-{% include youtube.html id="OZYyPLlWpeM" %}
+<iframe width="640" height="390" src="https://www.youtube.com/embed/OZYyPLlWpeM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
