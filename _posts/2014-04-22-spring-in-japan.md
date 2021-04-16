@@ -1,8 +1,6 @@
 ---
 title: Spring in Japan
-header: Spring in Japan
-description: Blossoming.
-permalink: /spring-in-japan/
+categories: Japan
 layout: post
 ---
 

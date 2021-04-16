@@ -1,5 +1,5 @@
 ---
-title: About | Simple Jekyll
+title: About
 header: About Simple Jekyll
 description: A little bit about the person behind this website.
 permalink: /about/
