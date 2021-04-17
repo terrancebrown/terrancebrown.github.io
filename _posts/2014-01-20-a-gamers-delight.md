@@ -1,8 +1,8 @@
 ---
 title: A Gamer's Delight
-header: A Gamer's Delight
-description: The joy of Spelunky.
-permalink: /a-gamers-delight/
+# header: A Gamer's Delight
+# description: The joy of Spelunky.
+# permalink: /a-gamers-delight/
 layout: post
 ---
 
