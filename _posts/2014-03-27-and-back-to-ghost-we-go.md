@@ -29,4 +29,4 @@ I was hoping to hold off on a full shift over to Ghost until it had more robust 
 
 In the meantime if you stumble across any rough edges or bugs on any pages or posts please let me know.
 
- [1]: /2014/03/06/moving-to-octopress/
+ [1]: /moving-to-octopress/
