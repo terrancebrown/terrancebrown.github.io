@@ -31,7 +31,7 @@ author:
 
 permalink: /:title/
 
-paginate: 5
+paginate: 10
 
 # Build settings
 # theme: minima
